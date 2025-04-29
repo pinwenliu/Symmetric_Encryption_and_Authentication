@@ -90,7 +90,8 @@ SHA-3-512是SHA-3家族中的一種雜湊算法，產生512-bit的雜湊值。�
 
 ![image](https://github.com/user-attachments/assets/4ba2ffef-7471-46f4-a006-58753f75c8a7)
 ![image](https://github.com/user-attachments/assets/798e224e-37b2-4c62-8c86-afa9b84d1015)
-![image](https://github.com/user-attachments/assets/2d21c230-9884-420d-b97f-bfff580cc6b3)
+![image](https://github.com/user-attachments/assets/52ea3da9-df95-4a9d-bcd6-67e2727d4d70)
+
 
 
 

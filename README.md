@@ -1,4 +1,4 @@
-# Symmetric_Encryption_and_Authentication\
+# Symmetric_Encryption_and_Authentication
 首先，先讀取被加密檔案（secretFile.txt），並印出其檔案的大小（134830082 bytes）
 ![image](https://github.com/user-attachments/assets/f0962ee1-349c-40e9-995b-a344ff4fc3d9)
 ![image](https://github.com/user-attachments/assets/e92092d3-6c92-4d7f-b4b8-9b0353bb0cee)

@@ -13,8 +13,7 @@
 再以二進制的方式開啟一個名為AESCCM_CipherFile.txt的檔案並寫入以AES-CCM mode所加密的資料。
 最後印出使用AES-CCM mode加密檔案的速度（每秒加密多少data bytes）。
 ![image](https://github.com/user-attachments/assets/02cae0c7-6e55-4ef5-a0ee-22f12991e184)
-![image](https://github.com/user-attachments/assets/2b8cd547-1b61-4c77-b477-d4142f92cb21)
-
+![image](https://github.com/user-attachments/assets/258124fd-220b-433e-9c1a-4b4493a9b03e)
 
 ### 定義 AES-CCM mode解密函式
 其中有三個參數：key為解密用的金鑰、data為要被解密的資料內容、nonce為在串流解密上只使用一次的隨機數，用於確保安全。

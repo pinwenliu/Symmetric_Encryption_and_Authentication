@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/45740948-d5be-47aa-8cc8-ea92be81dd8a)
 
 ## Encryption and decryption using AES-CCM mode
-a.	定義AES-CCM mode加密函式
+### 定義AES-CCM mode加密函式
 其中有三個參數：key為加密用的金鑰、data為要被加密的資料內容、nonce為在串流加密上只使用一次的隨機數，用於確保安全。
 ![image](https://github.com/user-attachments/assets/6020e3f4-75cb-414d-a661-16a7799db0cd)
 b.	呼叫 AES-CCM mode加密函式

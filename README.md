@@ -79,7 +79,7 @@
 再開啟一個名為 ChaCha20_PlaintFile.txt的檔案並寫入以 ChaCha20所解密的資料。
 ![image](https://github.com/user-attachments/assets/1dc9fd8e-56af-49f1-ac69-91fd366e3897)
 
-###　驗證 ChaCha20加解密實作是否正確
+### 驗證 ChaCha20加解密實作是否正確
 若解密後的資料內容和原本的檔案內容相同，則表示加解密實作正確；反之則表示加解密實作有誤。
 ![image](https://github.com/user-attachments/assets/18104908-416b-4851-8ce3-d0cbcb1e6443)
 ![image](https://github.com/user-attachments/assets/452e2f00-601d-4a24-ae28-40577700a289)
